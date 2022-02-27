@@ -1,0 +1,147 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>A full and true account of the penitent behaviour, last dying words, &amp; execution of Mr. Edmund Allen, gent. who was condemned at the Sessions-House in the Old Baily, for abusing his ... wife by cruelly beating her ... and inhumanely poysoning of her ... : with a relation of the reprieve of Mr. Richard Buttler, who was likewise order'd to be executed ... on Friday, the 19th of ... July, 1695 : vvith Mr. Allen's last words, &amp;c.</title>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1695</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 9 KB of XML-encoded text transcribed from 2 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2014-11">2014-11 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A84969</idno>
+            <idno type="STC">Wing F2308B</idno>
+            <idno type="STC">ESTC R42322</idno>
+            <idno type="EEBO-CITATION">36272990</idno>
+            <idno type="OCLC">ocm 36272990</idno>
+            <idno type="VID">150064</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online text creation partnership.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A84969)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 150064)</note>
+            <note>Images scanned from microfilm: (Early English books, 1641-1700 ; 2228:12)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>A full and true account of the penitent behaviour, last dying words, &amp; execution of Mr. Edmund Allen, gent. who was condemned at the Sessions-House in the Old Baily, for abusing his ... wife by cruelly beating her ... and inhumanely poysoning of her ... : with a relation of the reprieve of Mr. Richard Buttler, who was likewise order'd to be executed ... on Friday, the 19th of ... July, 1695 : vvith Mr. Allen's last words, &amp;c.</title>
+               </titleStmt>
+               <extent>1 sheet ([2] p.).   </extent>
+               <publicationStmt>
+                  <publisher>Printed for J. Williams ...,</publisher>
+                  <pubPlace>London :</pubPlace>
+                  <date>1695.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Caption title.</note>
+                  <note>Imprint from colophon.</note>
+                  <note>Reproduction of original in the Newberry Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Allen, Edmund, d. 1695.</term>
+               <term>Butler, Richard, d. 1695?</term>
+               <term>Murder --  England --  London.</term>
+               <term>Crime --  Great Britain.</term>
+               <term>Criminals --  Great Britain.</term>
+               <term>Broadsides --  London (England) --  17th century.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2012-08</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2012-08</date>
+            <label>Apex CoVantage</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2013-07</date>
+            <label>Mona Logarbo</label>Sampled and proofread</change>
+         <change>
+            <date>2013-07</date>
+            <label>Mona Logarbo</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2014-03</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <body>
+         <div type="text">
+            <pb facs="tcp:150064:1" rendition="simple:additions"/>
+            <head>A Full and True ACCOUNT of the Penitent BEHAVIOUR, <hi>Laſt Dying Words, &amp; Execution</hi> OF Mr. Edmund Allen, Gent.</head>
+            <head type="sub">Who was Condemned at the <hi>Seſſions-Houſe</hi> in the <hi>Old Baily,</hi> for Abuſing his Loving and Tender VVife, by Cruelly Beating her ſeveral Times with a <hi>Bull's</hi> Pizzle; and, laſt of all, moſt Barba<g ref="char:EOLhyphen"/>rouſly and Inhumanely Poyſoning of her, by giving her <hi>White Mercury,</hi> which he unhappily mixt with <hi>Rasberry Gelly.</hi>
+            </head>
+            <head>With a RELATION of The REPRIEVE of Mr. <hi>Richard Buttler,</hi> who was likewiſe Or<g ref="char:EOLhyphen"/>der'd to be Executed with the ſaid <hi>Allen;</hi> On <hi>Friday,</hi> the <hi>19th</hi> of this Inſtant <hi>July,</hi> 1695. VVith Mr. <hi>Allen</hi>'s laſt VVords, <hi>&amp;c.</hi>
+            </head>
+            <p>IT is ſad to conſider, that no <hi>Fatal Exam<g ref="char:EOLhyphen"/>ples</hi> of the JUSTICE of GOD and Man can deter ſome ſort of People from Ruſhing on them to their Deſtruction: Not only, to the certain Deſtruction of their Bo<g ref="char:EOLhyphen"/>dies, as being cut off from the Society of Men, but to the great and eminent <hi>Hazard</hi> of their Pretious and Immortal Souls, which are more Valuable than a Thouſand Worlds; Our Bleſſed Saviour tell us, <hi>There's nothing can be given in Exchange for a Soul, when loſt.</hi> Then how cautious ought we to be, by all ways of <hi>Virtue</hi> and <hi>Religion,</hi> to ſecure ſo <hi>Ineſtimable</hi> a <hi>Jewel:</hi> And ſince the <hi>Time</hi> that is here given us to ſpend well, is the <hi>Talent</hi> we are to <hi>Im<g ref="char:EOLhyphen"/>prove</hi> to make us everlaſtingly Happy; or, by not <hi>Improveing</hi> it Miſerable for ever, we ought to be <hi>Circumſpect</hi> about it.</p>
+            <p>
+               <hi>This may ſuffice for Admonition and Cantion; but now we come nearer to the Purpoſe,</hi>
+            </p>
+            <p>
+               <hi>EDMUND ALLEN,</hi> was well Edu<g ref="char:EOLhyphen"/>cated and of good Parentage; but gave him<g ref="char:EOLhyphen"/>ſelf over, when he came to Years to ſuch Company, as made him for the future forget himſelf, in purſuing thoſe <hi>Virtuous Ways</hi> he was brought up to. Before he had Settled himſelf well in the World, he fell into the Company of Lewd-Women; yet, being at laſt weary of ſuch a proffligate Courſe of Life; or elſe wanting Mony to Support it, he bethought himſelf of <hi>Marriage,</hi> and in<g ref="char:EOLhyphen"/>deed in this he had the good Fortune to get the Good-Will of one that brought him a con<g ref="char:EOLhyphen"/>ſiderable Portion, (ſome ſay about Fifteen-Hundred Pounds preſent, and more upon the Death of Relations.) A while they lived to<g ref="char:EOLhyphen"/>gether quietly; but ſome Lewd-Women finding an Oppurtunity to draw him off and ſet him againſt her; his (as we may truly term it) Diſſembled <hi>Love</hi> turned into Ha<g ref="char:EOLhyphen"/>tred; he uſed her very grievouſly, and be<g ref="char:EOLhyphen"/>cauſe he thought this ill Uſage not A<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>fliction enough to a <hi>Tender-Heart,</hi> having ſpent moſt of the Mony he had with her, and willing to live ſtill in <hi>Splendour,</hi> he reported himſelf a Widower, and going to a Young-Gentlewo<g ref="char:EOLhyphen"/>man one <hi>Frances Artis,</hi> he ſo inſinuated him<g ref="char:EOLhyphen"/>ſelf into her Favour, that ſhe had a good li<g ref="char:EOLhyphen"/>king of him, without the Conſent of her Friends, and raſhly gave herſelf away, with a conſiderable Fortune; ſo that it is agreed on he had <hi>3000l.</hi> by his Wives and his Rela<g ref="char:EOLhyphen"/>tions: But the matter being diſcovered he was Proſecuted at <hi>Suffolk Aſſizes</hi> for <hi>Poligamy</hi> or <hi>Marrying a ſecond Wife, the former being A<g ref="char:EOLhyphen"/>live;</hi> where he eſcap'd by his <hi>Clergy;</hi> but this was no Warning to this to be deplored Sin<g ref="char:EOLhyphen"/>ner, for, being deſirous to proceed further in the <hi>State of Matrimony,</hi> he beat the ſaid <hi>Fran<g ref="char:EOLhyphen"/>ces Allen,</hi> as now we muſt call her frequently, in a moſt miſerable Manner, ſometimes with a <hi>Bull</hi>'s<hi>-Pizzle,</hi> at other times with a <hi>Horſe-Whip;</hi> and one time, by this curſed means, making her Miſcarry, he would not ſuffer thoſe Women that offered their Neighbourly Aſſiſtance to come near her in her doleful Condition. But her Heart not breaking with ſuch violent Uſage, as, it is thought, he ex<g ref="char:EOLhyphen"/>pected it would; he conſidered of other more deſtructive Ways, for, comeing home from ſome Lewd Women, (where it is ſuppoſed this poor Innocent Creatures Deſtruction was Plotted) he ſeemed more Kind than uſual, which the good Natured Woman taking to
+<pb facs="tcp:150064:2"/> be real, and that, as he told her, he had Re<g ref="char:EOLhyphen"/>pented him of his former Follies and Extra<g ref="char:EOLhyphen"/>vagancies, and intended to turn a good Hus<g ref="char:EOLhyphen"/>band; ſhe ſeemed Over-joyed at the ſuppoſed <hi>Reformation;</hi> but alaſs, it proved Fatal to her, for treating her with ſome <hi>Rasberry-Gelly,</hi> or <hi>Cakes,</hi> he treacherouſly mixed Poiſon, ſuppo<g ref="char:EOLhyphen"/>ſed to be <hi>Sublimated Mercury,</hi> in them; which ſoon after put her into a violent Heat, and flying to her Brain, cauſed Diſ-reſt and Un<g ref="char:EOLhyphen"/>eaſineſs, of which ſhe mightily complaining, he pretending to be very Officrous, immedi<g ref="char:EOLhyphen"/>ately fetched a Doſe of <hi>Opium,</hi> which finiſh<g ref="char:EOLhyphen"/>ed the wicked deſign of her Death; though, being taxed, he ſaid it was only <hi>Poppy-Water</hi> he gave her. This, with many other Circum<g ref="char:EOLhyphen"/>ſtances relating to the <hi>Murther of his Wife,</hi> be<g ref="char:EOLhyphen"/>ing proved againſt him at the <hi>Old-Baily,</hi> and he making but a ſlender Defence for himſelf was found Guilty of wilful <hi>Murther;</hi> and on the <hi>6th.</hi> Inſtant received <hi>Sentence of Death.</hi>
+            </p>
+            <p>Being return'd to <hi>Newgate,</hi> he grew very Melancholy: His Thoughts were taken up with Sadneſs, and a deep Reflection on his former mis-ſpent Life. As ſoon as he was in the Priſon he Retired himſelf as much as the Conveniency would permit; ſome of his Friends came to him, adviſing him, <hi>To betake himſelf to a ſerious Repentance; to humble him<g ref="char:EOLhyphen"/>ſelf before God, for his many Sins; and to Im<g ref="char:EOLhyphen"/>plore Pardon and Forgiveneſs for them; not to bear himſelf up with hopes of Life in this World, ſeeing it was uncertain, but to uſe the Time al<g ref="char:EOLhyphen"/>lowed him in a ſincere Repentance, to waſh off the Stains that polluted his Soul.</hi> Theſe, and the like Perſwaſions, touched his Conſcience with Remorſe, and drew Tears from his Eyes, ſo that he deſired them to, <hi>Pray for him, That God in his infinite Mercy would conſider him, a Poor, Sinful Creature, whoſe many Sins had provoked him, in Juſtice, to bring him to this perril of Death, Shame, and Diſgrace;</hi> Pray<g ref="char:EOLhyphen"/>ing by himſelf, and deſiring to be prayed for, which was accordingly perform'd: The Miniſters that vifited him, deſiring him to have in his Mind the Words of the Prophet <hi>David, viz. From Blood Guiltineſs Deliver me O God!</hi> He Confeſſed his Sins were very great and grieveous, Imploring God, in this his great Extremity, not to lay them to his Charge, but to take away his ſtony Heart, and give him a Heart of Fleſh, that he might be touched with a ſenſe of his Rebellion a<g ref="char:EOLhyphen"/>gainſt him, in breaking his Commandments, and ſining againſt that Grace that was once given him, to lead him into the way of all Truth and upright Walking in this his Pil<g ref="char:EOLhyphen"/>grimage on Earth. On the Two <hi>Sabbath Days</hi> that happened during his Reſpite he behaved himſelf with extraordinary Devotion, being very attentive to the Expreſſions of <hi>the Pro<g ref="char:EOLhyphen"/>miſes of God, in Mercies offered by God to poor Repenting Sinners.</hi> Yet, notwithſtanding this, at ſome times flattered himſelf with Hopes of Life; eſpecially when he found he was Re<g ref="char:EOLhyphen"/>prieved for Seven Days.</p>
+            <p>As for <hi>Richard Butler,</hi> who went with him, in Order to his Execution, he, to outward Appearance, ſeem'd not in the leaſt Penitent, having, I ſuppoſe, ſome Hopes of a <hi>Reprieve,</hi> or <hi>Pardon:</hi> But from <hi>Newgate</hi> to <hi>Knibbs</hi>'s Pound (being near that Place where he re<g ref="char:EOLhyphen"/>ceived a <hi>Reprieve</hi>) he all along bore a Chear<g ref="char:EOLhyphen"/>ful Countenance; ſpeaking freely to all the Spectators, and often bitterly inveighing the Perſon, who ſwore againſt him, <hi>&amp;c.</hi>
+            </p>
+            <p>But, to return to Mr. <hi>Allen:</hi> On <hi>Friday,</hi> the <hi>19th.</hi> Inſtant, he was conveyed privately in a Coach to <hi>Tyburn;</hi> where there was a great deal of Aſſiduity uſed, as to his Eternal Con<g ref="char:EOLhyphen"/>cerns; not only by the Reverend Ordinary; but alſo, by another moſt Reverend Divine: After he was Tyed up in the Cart, he great<g ref="char:EOLhyphen"/>ly bewailed his former miſpent Life; deſi<g ref="char:EOLhyphen"/>ring others to be warned, by his unhappy end: He Prayed, and was Prayed with; and according to all outward Appearance, mad<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap> a very Penitent End; tho' he had lived a Wicked Life; ſo the Cart being drawn away, his Soul was committed to the Hands of his Merciful Creator and Redeemer: Whoſe ways with Mankind are Unſearchable; and whoſe Mercies towards Penitent Sinners are Unlimited.</p>
+         </div>
+         <trailer>FINIS.</trailer>
+      </body>
+      <back>
+         <div type="colophon">
+            <p>LONDON, <hi>Printed for</hi> J. Williams, <hi>near</hi> Charing-Croſs, 1695</p>
+         </div>
+      </back>
+   </text>
+</TEI>
